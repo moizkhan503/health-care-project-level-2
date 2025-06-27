@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pymupdf4llm
+langchain
+langchain-text-splitters
+langchain-groq
+langchain-openai
+langchain-community
+faiss-cpu
